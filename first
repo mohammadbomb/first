@@ -1,6 +1,6 @@
 aleo smart contract
 000000000000000000000
-007887dff
+007887dfff
 نصب پیش نیازها 
 -------------------------------------------------------------------
 curl --proto '=https' -x-tlsv1.2 -sSf https://sh.rustup.rs | sh
